@@ -23,5 +23,4 @@ public enum Dificuldade {
 		
 		return null;
 	}
-	
 }
